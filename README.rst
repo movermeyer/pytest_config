@@ -1,15 +1,15 @@
 pytest-config
 ===============
 
-.. image:: https://pypip.in/v/pytest-config/badge.svg
+.. image:: https://img.shields.io/pypi/v/pytest-config.svg
     :target: https://crate.io/packages/pytest-config/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/pytest-config/badge.png
+.. image:: https://img.shields.io/pypi/dm/pytest-config.svg
     :target: https://crate.io/packages/pytest-config/
     :alt: Number of PyPI downloads
 
-.. image:: https://pypip.in/format/pytest-config/badge.png
+.. image:: https://img.shields.io/pypi/format/pytest-config.svg
     :target: https://pypi.python.org/pypi/pytest-config/
     :alt: Download format
 
